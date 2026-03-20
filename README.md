@@ -82,7 +82,7 @@ npx ts-node src/index.ts
 - Taysir Ali — RM564884  
 - Lucas Barbosa — RM564685  
 - Vitor Limeira — RM565280  
-- Pedro Del Neri — RM562186  
+- Pedro Del Neri — RM562168 
  
 ---
  
